@@ -1,9 +1,10 @@
 .mainContainer{
     padding: 50px;
-    width: 100%;
+    width: 50%;
     min-height: calc(100vh - 75px);
     display: flex;
     gap: 10px;
+    
 }
 
 ::-webkit-scrollbar {
