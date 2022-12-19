@@ -52,6 +52,11 @@
     color: #000;
 }
 .aboutInfosLeftItemContainer span{
-    font-size: 12px;
+    font-size: 11px;
 
+}
+
+.aboutInfosRightContainer{
+    padding: 20px;
+    text-align: center;
 }
